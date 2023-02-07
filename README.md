@@ -60,6 +60,9 @@ curated list of top AI Tools.
 | Lorro  | Practice speaking English with an AI tutor | [🔗](https://lorro.io/)|
 | SlidesAI.io  | An AI Powered Text to Presentation Tool, Works with Google Slides | [🔗](https://slidesai.io)|
 | Flair  | AI design tool for branded content | [🔗](https://withflair.ai/)|
+| PPT | Build a presentation | [🔗](https://beautiful.ai/)|
+| PPT | Build a presentation | [🔗](https://https://presentations.ai/)/)|
+| PPT | Interactive PPT |  [🔗](https://presentations.ai)| 
 
 ## Developer
 | Tools | Used for | Link |
@@ -90,6 +93,7 @@ curated list of top AI Tools.
 | Magic Summaries by Sybill | create automatic, accurate sales call summaries using AI | [🔗](https://www.sybill.ai/magic-summary)|
 | Peech | video content creator for content marketing | [🔗](https://www.peech-ai.com/)|
 | Headlines | Generating headlines for content marketing | [🔗](https://headlines.sharethrough.com/)|
+| Social Media Mareting | AI browser extension for quick and easy marketing copy| [🔗](https://tailwindapp.com/)|
 
 ## Productivity
 | Tools | Used for | Link |
